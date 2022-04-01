@@ -1,0 +1,1 @@
+cmd_/home/cskt/Desktop/os_linux/ch2_project/simple.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/cskt/Desktop/os_linux/ch2_project/simple.ko /home/cskt/Desktop/os_linux/ch2_project/simple.o /home/cskt/Desktop/os_linux/ch2_project/simple.mod.o;  true

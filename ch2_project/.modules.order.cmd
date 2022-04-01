@@ -1,0 +1,1 @@
+cmd_/home/cskt/Desktop/os_linux/ch2_project/modules.order := {   echo /home/cskt/Desktop/os_linux/ch2_project/simple.ko; :; } | awk '!x[$$0]++' - > /home/cskt/Desktop/os_linux/ch2_project/modules.order
