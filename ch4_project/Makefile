@@ -1,5 +1,5 @@
 default:
-	gcc -pthread -o main.o main.c
+	gcc -pthread -o sudoku_validator.o sudoku_validator.c
 
 clean:
 	rm *.o
